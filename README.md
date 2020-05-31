@@ -11,7 +11,7 @@ It converts the provide native HCL file to an (almost) equivalent HCL JSON file.
 ## Install
 
 ```
-go get github.com/abiosoft/hcl2json/cmd/hcl2json
+go get github.com/abiosoft/hcl2json/cmd/hcl2json@master
 ```
 
 ## Usage
